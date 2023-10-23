@@ -1,0 +1,35 @@
+h1 {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+h2 {
+    color: purple;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+label {
+    color: rgb(155, 74, 155);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+button {
+    color: purple;
+    background-color:rgb(224, 204, 237);
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    border: none;
+    padding: 16px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 17px;
+}
+button {
+    transition-duration: 0.4s;
+}
+  
+button:hover {
+    background-color: purple;
+    color: rgb(224, 204, 237);
+}
+input {
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: grey;
+}
